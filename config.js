@@ -1,5 +1,5 @@
 const config = {
-    OCPPServer: 'ws://localhost:8080/ocpp/1.6J'
+  OCPPServer: "https://evtorapp.onrender.com",
 };
 
 module.exports = config;
