@@ -48,4 +48,4 @@ Requests from client to server are handled in `src/requestHandler.js`. Responses
 
 Client-side support for smart charging is implemented in `ocpp/chargeingProfiles`. `ChargePointMaxProfile` and `TxDefaultProfile`/`TxProfile` are combined to derive the composite profile. The instantaneous limit is calculated from the composite profile.
 
-Server-side smart charging can be found [here](server/addons/README.md). The implementation is based on BCIT's OpenOCPP v1.1.1, and it requires modification on its source code.
+Server-side smart charging can be found [here](server/addons/README.md). The implementation is based on BCIT's OpenOCPP v1.1.1, and it requires modification on its source code.# EvtorBackend
